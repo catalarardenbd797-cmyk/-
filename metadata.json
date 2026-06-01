@@ -1,0 +1,6 @@
+{
+  "name": "猫咪主题网站 (Cat Theme Website)",
+  "description": "一款极简高级风猫咪鉴赏网站。采用留白卡片式自适应布局与低饱和度配色，内置三大分区：热门猫咪、品种图鉴与精选图集，呈现光影与温柔生命力。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
