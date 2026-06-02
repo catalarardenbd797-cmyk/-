@@ -41,7 +41,7 @@ export default function PopularSection() {
       name: '英国短毛猫',
       engName: 'British Shorthair',
       tagline: '圆润大气的温暖伴侣 · 随和不扰的默默陪伴',
-      image: 'https://cdn.phototourl.com/free/2026-05-26-0eaff314-3e6b-49bc-94c4-5fb919f8657a.jpg',
+      image: 'https://cdn.phototourl.com/free/2026-06-01-e9311a6a-2311-4d11-bddd-a085bcdd9223.jpg',
       bgTone: 'bg-slate-100/40',
       charmTraits: ['低声陪伴', '圆融大脸', '随遇而安'],
       charmScore: 94,
